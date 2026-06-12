@@ -35,7 +35,7 @@
  		<dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-function-adapter-aws-web</artifactId>
-            <version>3.2.9-SNAPSHOT</version><!-- @releaser:version-check-off -->
+            <version>4.3.5</version><!-- @releaser:version-check-off -->
         </dependency>
         <!--
              the Spring Context Indexer run an annotation processor at compile time and generates

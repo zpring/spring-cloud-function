@@ -37,7 +37,7 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-function-adapter-azure</artifactId>
-			<version>4.1.0-SNAPSHOT</version>
+			<version>4.3.5</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
@@ -56,7 +56,7 @@
 			<dependency>
 				<groupId>org.springframework.cloud</groupId>
 				<artifactId>spring-cloud-function-dependencies</artifactId>
-				<version>4.1.0-SNAPSHOT</version>
+				<version>4.3.5</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
